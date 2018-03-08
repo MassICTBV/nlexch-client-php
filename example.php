@@ -1,13 +1,3 @@
-nlexch-client-php
-==============
-
-A simple PHP client for Crypto Trade Site NLexch.com
-
-Quick example
-=============
-
-```php
-
 <?php
 require_once('lib/nlexch-client.php');
 
@@ -23,10 +13,3 @@ try {
 catch (Exception $e) {
   die($e);
 }
-
-```
-
-API Document
-=============
-
-[API_v2](https://demo.peatio.com/documents/api_v2)
