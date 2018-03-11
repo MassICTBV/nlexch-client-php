@@ -29,4 +29,4 @@ catch (Exception $e) {
 API Document
 =============
 
-[API_v2](https://demo.peatio.com/documents/api_v2)
+[API_v2](https://www.nlexch.com/documents/api_v2)
